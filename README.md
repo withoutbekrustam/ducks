@@ -1,5 +1,5 @@
 # ducks
-birds
+birds okay
 import tkinter as tk
 import tkinter.messagebox
 from tkinter.constants import SUNKEN
